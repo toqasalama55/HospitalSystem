@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net Course labs\\HospitalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|d:\\.net course labs\\hospitalsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|d:\\.net course labs\\hospitalsystem\\views\\doctor\\bookappoitment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|solutionrelative:views\\doctor\\bookappoitment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|d:\\.net course labs\\hospitalsystem\\views\\doctor\\completeappoitment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|solutionrelative:views\\doctor\\completeappoitment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|d:\\.net course labs\\hospitalsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|solutionrelative:controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|d:\\.net course labs\\hospitalsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|d:\\.net course labs\\hospitalsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./FirstMVC505/True/SqlTable/dbo.Doctor.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|d:\\.net course labs\\hospitalsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|d:\\.net course labs\\hospitalsystem\\migrations\\20240722193546_adddoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|solutionrelative:migrations\\20240722193546_adddoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|d:\\.net course labs\\hospitalsystem\\migrations\\20240722193157_seeddoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FD4B86E-8AA3-452E-B166-6F92A2F2617E}|Hospital.csproj|solutionrelative:migrations\\20240722193157_seeddoctors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.net Course labs\\HospitalSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.net Course labs\\HospitalSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-26T16:19:41.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.net Course labs\\HospitalSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.net Course labs\\HospitalSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T20:53:40.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompleteAppoitment.cshtml",
+              "DocumentMoniker": "D:\\.net Course labs\\HospitalSystem\\Views\\Doctor\\CompleteAppoitment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctor\\CompleteAppoitment.cshtml",
+              "ToolTip": "D:\\.net Course labs\\HospitalSystem\\Views\\Doctor\\CompleteAppoitment.cshtml",
+              "RelativeToolTip": "Views\\Doctor\\CompleteAppoitment.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAiwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T20:15:48.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "D:\\.net Course labs\\HospitalSystem\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorController.cs",
+              "ToolTip": "D:\\.net Course labs\\HospitalSystem\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAMwBYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T20:14:57.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\.net Course labs\\HospitalSystem\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "D:\\.net Course labs\\HospitalSystem\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:41:22.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240722193546_addDoctors.cs",
+              "DocumentMoniker": "D:\\.net Course labs\\HospitalSystem\\Migrations\\20240722193546_addDoctors.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240722193546_addDoctors.cs",
+              "ToolTip": "D:\\.net Course labs\\HospitalSystem\\Migrations\\20240722193546_addDoctors.cs",
+              "RelativeToolTip": "Migrations\\20240722193546_addDoctors.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:35:46.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240722193157_SeedDoctors.cs",
+              "DocumentMoniker": "D:\\.net Course labs\\HospitalSystem\\Migrations\\20240722193157_SeedDoctors.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240722193157_SeedDoctors.cs",
+              "ToolTip": "D:\\.net Course labs\\HospitalSystem\\Migrations\\20240722193157_SeedDoctors.cs",
+              "RelativeToolTip": "Migrations\\20240722193157_SeedDoctors.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:31:58.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "D:\\.net Course labs\\HospitalSystem\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDBContext.cs",
+              "ToolTip": "D:\\.net Course labs\\HospitalSystem\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T19:27:08.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Doctor [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./FirstMVC505/True/SqlTable/dbo.Doctor.sql",
+              "ToolTip": "dbo.Doctor [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-22T19:26:35.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookAppoitment.cshtml",
+              "DocumentMoniker": "D:\\.net Course labs\\HospitalSystem\\Views\\Doctor\\BookAppoitment.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctor\\BookAppoitment.cshtml",
+              "ToolTip": "D:\\.net Course labs\\HospitalSystem\\Views\\Doctor\\BookAppoitment.cshtml",
+              "RelativeToolTip": "Views\\Doctor\\BookAppoitment.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-22T19:20:16.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

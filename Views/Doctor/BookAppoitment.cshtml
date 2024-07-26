@@ -1,0 +1,32 @@
+﻿
+<h1>Book Appointment</h1>
+<section style="background-color: #eee;">
+    <div class="container py-5">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-md-12 col-lg-4 mb-4 mb-lg-0">
+                    <div class="card">
+                        <a href="/Doctor/CompleteAppoitment/@item.Id">
+                            <img src="~/images/@item.Img"
+                                 class="card-img-top" alt="Doctor" />
+                        </a>
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between">
+                                
+                            </div>
+
+                            <div class="col-sm-12 p-3">
+                                <h5 class="mb-0">@item.Name</h5>
+                                <p class="text-dark mb-0">Specialization: @item.Specialization</p>
+                                <a href="/Doctor/CompleteAppoitment/@item.Id" class="btn btn-primary mt-3">Book Appointment</a>
+                                @* <a href="/Product/CreateNew" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Book Appointment</a> *@
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>
